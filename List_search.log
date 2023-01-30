@@ -1,0 +1,80 @@
+2023-01-25 18:06:53,228 INFO Searching ....
+2023-01-25 18:06:53,228 INFO Search is successful!!!!
+2023-01-25 18:07:10,841 INFO Searching ....
+2023-01-25 18:07:10,841 INFO Search is unsuccessful!!!!
+2023-01-25 18:08:03,178 INFO Searching ....
+2023-01-25 18:08:03,178 INFO Search is unsuccessful!!!!
+2023-01-25 18:28:59,783 DEBUG pickle loaded: /Users/anilreddykunta/opt/anaconda3/lib/python3.9/logging/__init__.py
+2023-01-25 18:29:03,055 DEBUG diff parser start
+2023-01-25 18:29:03,056 DEBUG line_lengths old: 1; new: 1
+2023-01-25 18:29:03,056 DEBUG -> code[replace] old[1:1] new[1:1]
+2023-01-25 18:29:03,057 DEBUG parse_part from 1 to 1 (to 0 in part parser)
+2023-01-25 18:29:03,058 DEBUG diff parser end
+2023-01-25 18:29:07,848 DEBUG diff parser start
+2023-01-25 18:29:07,848 DEBUG line_lengths old: 1; new: 1
+2023-01-25 18:29:07,849 DEBUG -> code[replace] old[1:1] new[1:1]
+2023-01-25 18:29:07,850 DEBUG parse_part from 1 to 1 (to 0 in part parser)
+2023-01-25 18:29:07,850 DEBUG diff parser end
+2023-01-25 18:29:09,282 DEBUG diff parser start
+2023-01-25 18:29:09,282 DEBUG line_lengths old: 1; new: 1
+2023-01-25 18:29:09,282 DEBUG -> code[replace] old[1:1] new[1:1]
+2023-01-25 18:29:09,283 DEBUG parse_part from 1 to 1 (to 0 in part parser)
+2023-01-25 18:29:09,283 DEBUG diff parser end
+2023-01-25 18:29:17,393 DEBUG diff parser start
+2023-01-25 18:29:17,393 DEBUG line_lengths old: 1; new: 1
+2023-01-25 18:29:17,393 DEBUG -> code[replace] old[1:1] new[1:1]
+2023-01-25 18:29:17,393 DEBUG parse_part from 1 to 1 (to 0 in part parser)
+2023-01-25 18:29:17,393 DEBUG diff parser end
+2023-01-25 18:29:17,840 DEBUG diff parser start
+2023-01-25 18:29:17,840 DEBUG line_lengths old: 1; new: 1
+2023-01-25 18:29:17,840 DEBUG -> code[replace] old[1:1] new[1:1]
+2023-01-25 18:29:17,841 DEBUG parse_part from 1 to 1 (to 0 in part parser)
+2023-01-25 18:29:17,841 DEBUG diff parser end
+2023-01-25 18:29:25,584 DEBUG diff parser start
+2023-01-25 18:29:25,585 DEBUG line_lengths old: 1; new: 1
+2023-01-25 18:29:25,585 DEBUG -> code[replace] old[1:1] new[1:1]
+2023-01-25 18:29:25,586 DEBUG parse_part from 1 to 1 (to 0 in part parser)
+2023-01-25 18:29:25,586 DEBUG diff parser end
+2023-01-25 18:29:30,915 DEBUG diff parser start
+2023-01-25 18:29:30,916 DEBUG line_lengths old: 1; new: 2
+2023-01-25 18:29:30,916 DEBUG -> code[replace] old[1:1] new[1:2]
+2023-01-25 18:29:30,917 DEBUG parse_part from 1 to 2 (to 1 in part parser)
+2023-01-25 18:29:30,917 DEBUG diff parser end
+2023-01-25 18:29:30,950 DEBUG pickle loaded: /Users/anilreddykunta/opt/anaconda3/lib/python3.9/site-packages/jedi/third_party/typeshed/stdlib/2and3/logging/__init__.pyi
+2023-01-25 18:29:30,981 DEBUG pickle loaded: /Users/anilreddykunta/opt/anaconda3/lib/python3.9/site-packages/jedi/third_party/typeshed/stdlib/3/builtins.pyi
+2023-01-25 18:29:30,984 DEBUG pickle loaded: /Users/anilreddykunta/opt/anaconda3/lib/python3.9/site-packages/jedi/third_party/typeshed/stdlib/3/sys.pyi
+2023-01-25 18:29:31,076 DEBUG diff parser start
+2023-01-25 18:29:31,076 DEBUG line_lengths old: 2; new: 2
+2023-01-25 18:29:31,076 DEBUG -> code[equal] old[1:1] new[1:1]
+2023-01-25 18:29:31,077 DEBUG copy old[1:1] new[1:1]
+2023-01-25 18:29:31,077 DEBUG -> code[replace] old[2:2] new[2:2]
+2023-01-25 18:29:31,077 DEBUG parse_part from 2 to 2 (to 1 in part parser)
+2023-01-25 18:29:31,077 DEBUG diff parser end
+2023-01-25 18:29:56,350 DEBUG diff parser start
+2023-01-25 18:29:56,351 DEBUG line_lengths old: 2; new: 2
+2023-01-25 18:29:56,351 DEBUG -> code[equal] old[1:1] new[1:1]
+2023-01-25 18:29:56,351 DEBUG copy old[1:1] new[1:1]
+2023-01-25 18:29:56,352 DEBUG -> code[replace] old[2:2] new[2:2]
+2023-01-25 18:29:56,352 DEBUG parse_part from 2 to 2 (to 1 in part parser)
+2023-01-25 18:29:56,352 DEBUG diff parser end
+2023-01-25 18:29:59,058 DEBUG diff parser start
+2023-01-25 18:29:59,059 DEBUG line_lengths old: 2; new: 2
+2023-01-25 18:29:59,059 DEBUG -> code[equal] old[1:1] new[1:1]
+2023-01-25 18:29:59,059 DEBUG copy old[1:1] new[1:1]
+2023-01-25 18:29:59,060 DEBUG -> code[replace] old[2:2] new[2:2]
+2023-01-25 18:29:59,060 DEBUG parse_part from 2 to 2 (to 1 in part parser)
+2023-01-25 18:29:59,061 DEBUG diff parser end
+2023-01-25 18:30:02,036 DEBUG diff parser start
+2023-01-25 18:30:02,037 DEBUG line_lengths old: 2; new: 2
+2023-01-25 18:30:02,037 DEBUG -> code[equal] old[1:1] new[1:1]
+2023-01-25 18:30:02,037 DEBUG copy old[1:1] new[1:1]
+2023-01-25 18:30:02,037 DEBUG -> code[replace] old[2:2] new[2:2]
+2023-01-25 18:30:02,038 DEBUG parse_part from 2 to 2 (to 1 in part parser)
+2023-01-25 18:30:02,039 DEBUG diff parser end
+2023-01-25 18:30:09,026 DEBUG diff parser start
+2023-01-25 18:30:09,026 DEBUG line_lengths old: 2; new: 2
+2023-01-25 18:30:09,026 DEBUG -> code[equal] old[1:1] new[1:1]
+2023-01-25 18:30:09,027 DEBUG copy old[1:1] new[1:1]
+2023-01-25 18:30:09,027 DEBUG -> code[replace] old[2:2] new[2:2]
+2023-01-25 18:30:09,028 DEBUG parse_part from 2 to 2 (to 1 in part parser)
+2023-01-25 18:30:09,029 DEBUG diff parser end
